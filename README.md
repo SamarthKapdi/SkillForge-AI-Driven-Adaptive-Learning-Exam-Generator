@@ -1,1 +1,1 @@
-# SkillForge-AI-Driven-Adaptive-Learning-Exam-Generator
+SkillForge is a smart e-learning platform that leverages AI to personalize student learning paths and dynamically generate exams tailored to each user’s skill level. By analyzing student progress, emotional feedback (optional), and performance trends, the system recommends learning resources and auto-generates custom quizzes using AI
