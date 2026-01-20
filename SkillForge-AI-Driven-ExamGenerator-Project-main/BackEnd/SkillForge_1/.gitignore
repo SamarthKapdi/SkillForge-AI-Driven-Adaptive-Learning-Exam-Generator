@@ -31,3 +31,10 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Database - KEEP THIS FOR SHARING WITH TEAMMATES ###
+# The data/ folder contains the H2 database with all progress
+# DO NOT add data/ to gitignore - it should be shared!
+!data/
+!data/*.mv.db
+!data/*.trace.db
