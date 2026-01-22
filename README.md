@@ -316,7 +316,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 | Role | Contributor |
 |------|-------------|
-| **Developer** | Kavya Suresh |
+| **Developer** | Samarth Kapdi |
 
 </div>
 
